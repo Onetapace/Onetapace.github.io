@@ -2,7 +2,7 @@ body {
     background: rgb(219, 227, 228);
     color: rgb(45, 45, 45);
     padding: 10px;
-    font-family: arial;
+    font-family: 'Courier New', Courier, monospace;
 }
 #all-contents {
   max-width: 800px;
@@ -66,4 +66,5 @@ main {
 }
 h2, h3 {
     margin: 0px;
+    border-radius: 30px;
 }
