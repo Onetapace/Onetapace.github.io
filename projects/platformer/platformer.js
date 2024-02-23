@@ -46,7 +46,7 @@ $(function () {
 createPlatform(525, 555, 200, 10);
 createPlatform(200, 500, 300, 10);
 createPlatform(900, 625, 100, 10);
-createPlatform(575, 125, 275, 10);
+createPlatform(575, 150, 275, 10);
 createPlatform(625, 425, 225, 10);
 createPlatform(950, 375, 150, 10);
 createPlatform(1300, 275, 200, 10);
@@ -73,6 +73,7 @@ createCollectable("diamond", 325, 300, 2, 1);
 
 createCannon("left", 300, 1300);
 createCannon("top", 900, 2000);
+createCannon("right", 350, 1600);
 
 
     /////////////////////////////////////////////////
