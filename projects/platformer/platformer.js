@@ -73,7 +73,8 @@ createCollectable("diamond", 325, 300, 2, 1);
 
 createCannon("left", 300, 1300);
 createCannon("top", 900, 2000);
-createCannon("right", 350, 1600);
+createCannon("right", 400, 1600);
+createCannon("bottom", 800, 1900);
 
 
     /////////////////////////////////////////////////
